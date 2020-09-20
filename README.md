@@ -1,4 +1,4 @@
-# Titov Vitaly1  
+# Titov Vitaly
 Age: 43  
 Marital status: Single  
 Address: Miass, Chelyabinsk region, Russia  
